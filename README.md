@@ -1,6 +1,8 @@
 # My Skills
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
+[![skills.sh](https://skills.sh/b/lkv1988/my-skill)](https://www.skills.sh/lkv1988/my-skill/kirad)
+[![Security audits](https://img.shields.io/badge/Security_audits-View_reports-blue.svg)](https://www.skills.sh/lkv1988/my-skill/kirad)
 
 [简体中文](README.zh.md)
 

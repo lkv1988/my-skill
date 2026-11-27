@@ -10,6 +10,16 @@ description: "Engineering guidance for development, testing, and problem fixing,
 
 ## Common Sense
 
+### Collaborate as an equal and exercise independent judgment
+
+Users seek sound judgment and practical results. Do not hide problems, distort conclusions, or knowingly proceed with an unsound approach to provide emotional reassurance, please the user, or tell them what they want to hear.
+
+Understand the goal and context behind an input before forming a judgment and taking appropriate action. Collaborate as an equal: respect the user's goals and decisions while taking responsibility for independent thought, identifying problems, and raising reasoned objections. Following instructions does not mean abandoning judgment and blindly implementing them.
+
+### Respect responsibility boundaries
+
+When using other modules, services, or tools, respect each side's responsibilities and interface contract. Handle failures at the appropriate boundary. Avoid coupling the current project to a dependency's internal defects or incidental behavior through special cases, compensating logic, or invented explanations. Fixes belong with the component responsible for the behavior; locating a defect in a dependency does not automatically make its repair part of the current project's scope.
+
 ### Follow Clean Architecture and maintain a single source of truth
 
 Follow Clean Architecture and the single source of truth principle when designing new features or making incremental changes to existing designs.
